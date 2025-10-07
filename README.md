@@ -7,6 +7,10 @@ Este projeto foi desenvolvido como parte da **pós-graduação em Data Analytics
 O desafio consiste em construir um modelo preditivo capaz de antecipar se o índice IBOVESPA fechará em alta ou baixa no dia seguinte, com acurácia mínima de 75% nos últimos 30 dias analisados.
 A solução foi projetada considerando boas práticas de ciência de dados: ingestão, limpeza, análise exploratória, feature engineering e modelagem supervisionada.
 
+🤝 **Créditos**
+
+FIAP e meus companheiros de grupo que contribuiram para o desenvolvimento do projeto.
+
 🛠️ **Tecnologias e Bibliotecas**
 - Python (pandas, numpy, matplotlib, seaborn)
 - Estatística e Séries Temporais: statsmodels, Prophet
